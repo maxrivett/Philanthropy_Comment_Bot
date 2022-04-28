@@ -20,7 +20,6 @@ public class Keyboard {
             robot.delay(15001);
             n++;
         }
-        keyboard.type("Hello there, how are you?");
     }
 
     public Keyboard() throws AWTException {
